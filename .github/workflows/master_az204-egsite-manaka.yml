@@ -53,4 +53,4 @@ jobs:
           app-name: 'az204-egsite-manaka'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D186447A2914A56AAB2B533D0FAB051 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01A0EB7557B242B991757818FECE30E1 }}
